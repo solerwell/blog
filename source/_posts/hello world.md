@@ -4,7 +4,7 @@ date: 2018/07/09 22:37
 
 ---
 
-hello world
+# hello world
 
 whatever i'm said are all wrong.
 
@@ -12,3 +12,6 @@ whatever i'm said are all wrong.
 print("hello wolrd")
 ```
 
+test pic
+
+![1531186151649](1531186151649.png)
