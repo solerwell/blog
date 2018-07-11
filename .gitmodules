@@ -1,0 +1,3 @@
+[submodule "solerwell.github.io"]
+	path = public
+	url = git@github.com:solerwell/solerwell.github.io.git
