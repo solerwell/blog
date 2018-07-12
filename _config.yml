@@ -89,5 +89,5 @@ theme_config:
   nav:
     Home: /
     About: /about/
-    Writing: /archives/
+    Archives: /archives/
     Projects: https://github.com/solerwell
